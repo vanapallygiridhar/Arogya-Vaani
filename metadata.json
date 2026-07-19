@@ -1,0 +1,9 @@
+{
+  "name": "AarogyaVaani",
+  "description": "Voice-first AI healthcare communication assistant for symptom checking and medical report analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
