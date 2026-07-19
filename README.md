@@ -133,6 +133,6 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Venkat Laxmi Gottam
+Vanapally Giridhar
 
 ⭐ If you like this project, don’t forget to star the repo!
